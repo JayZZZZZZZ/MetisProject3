@@ -1,13 +1,13 @@
 # MetisProject3
 
-# This repo includes the following files:
+This repo includes the following files:
 
-# Project3 PPT
+Project3 PPT
 
-# Raw Data: corona.csv
+Raw Data: corona.csv
           
-# Python Code 1: EDA & Feature Engineering
+Python Code 1: EDA & Feature Engineering
 
-# Python Code 2: Final Modeling
+Python Code 2: Final Modeling
 
-# Python Code 3: SQL Project option 1
+Python Code 3: SQL Project option 1
