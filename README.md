@@ -10,4 +10,4 @@ Python Code 1: EDA & Feature Engineering
 
 Python Code 2: Final Modeling
 
-Python Code 3: SQL Project option 1
+Python Code 3: SQL Project 
